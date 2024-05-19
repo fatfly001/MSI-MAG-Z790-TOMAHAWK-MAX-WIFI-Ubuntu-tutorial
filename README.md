@@ -1,6 +1,11 @@
-# Welcome to GitHub Desktop!
-Hello World
-And give me a star before you read this page !! haha !!
+# MSI-MAG-Z790-TOMAHAWK-MAX-WIFI INSTALL UBUNTU 24.04 - tutorial
+
+give me a star!
+give me a star!
+give me a star!
+give me a star!
+
+Then Following Below Steps For Installing Ubuntu 24.04 On Your MSI Z790 Board.
 
 ##################################
 ISSUE 1
